@@ -3,10 +3,11 @@ name = "pypkgs_gt"
 version = "0.1.0"
 description = "Python package for 524 assignment#1"
 authors = ["Guanshu Tao <guanshu@ualberta.ca>"]
-license = "\"MIT\""
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pandas = "^1.2.2"
 
 [tool.poetry.dev-dependencies]
 
